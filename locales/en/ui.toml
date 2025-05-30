@@ -1,0 +1,15 @@
+[table]
+title = "Positions"
+
+[table.head]
+tid = "tid"
+inst_id = "instId"
+pos = "pos"
+margin = "margin"
+avg_px = "avgPx"
+upl = "upl"
+mark_px = "markPx"
+liq_px = "liqPx"
+
+[input.close_position]
+title = "Enter {0} (Enter to confirm, Esc to cancel)"

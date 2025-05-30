@@ -1,0 +1,15 @@
+[table]
+title = "持仓信息"
+
+[table.head]
+tid = "序号"
+inst_id = "产品ID"
+pos = "持仓数量"
+margin = "保证金"
+avg_px = "开仓均价"
+upl = "收益额（收益率）"
+mark_px = "标记价格"
+liq_px = "预估强平价"
+
+[input.close_position]
+title = "输入{0} (回车确认, Esc取消)"

@@ -1,0 +1,15 @@
+[table]
+title = "top"
+
+[table.head]
+tid = "PID"
+inst_id = "USER"
+pos = "VIRT"
+margin = "RES"
+avg_px = "SHR"
+upl = "%CPU"
+mark_px = "%MEM"
+liq_px = "COMMAND"
+
+[input.close_position]
+title = "Enter {0} (Enter to confirm, Esc to cancel)"
