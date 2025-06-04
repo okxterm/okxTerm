@@ -51,6 +51,12 @@ cargo run --release
 
 ![](./assets/fake.png)
 
+
+#### tmux
+
+![](./assets/edit.png)
+
+
 你可以选择适合自己的界面。
 
 
